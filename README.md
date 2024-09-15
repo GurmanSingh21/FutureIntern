@@ -24,6 +24,9 @@ A program that enables two players to play a game of tic tac toe.
 # Snake Game
 A program where the player controls a snake that moves around the screen.
 
+Before running the game make sure to run this command in your teminal
+pip install pygame
+
 # Task5
 
 # Random Password Generator
